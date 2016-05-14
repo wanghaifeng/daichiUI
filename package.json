@@ -1,0 +1,19 @@
+{
+  "name": "daichi",
+  "version": "0.0.1",
+  "description": "Private fund dai chi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wanghaifeng/daichi.git"
+  },
+  "author": "Haifeng Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wanghaifeng/daichi/issues"
+  },
+  "homepage": "https://github.com/wanghaifeng/daichi#readme"
+}
